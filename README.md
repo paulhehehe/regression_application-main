@@ -37,7 +37,7 @@ If you want to run the application locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ding0055/Regression_Models_Solution
+   git clone https://github.com/paulhehehe/regression_application-main
    cd Regression_Models_Solution
 
 2. Create and activate a virtual environment:
